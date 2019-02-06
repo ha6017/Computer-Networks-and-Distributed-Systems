@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RMIServer",
+            "request": "launch",
+            "mainClass": "rmi.RMIServer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UDPServer",
+            "request": "launch",
+            "mainClass": "udp.UDPServer"
+        }
+    ]
+}
